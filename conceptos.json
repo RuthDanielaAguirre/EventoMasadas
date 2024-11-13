@@ -1,0 +1,49 @@
+{
+    "conceptos_sostenibilidad": [
+      {
+        "nombre": "10 Principios del Pacto Mundial de la ONU",
+        "descripcion": "Principios que promueven prácticas empresariales responsables en derechos humanos, estándares laborales, medio ambiente y anticorrupción, estableciendo un marco de sostenibilidad corporativa."
+      },
+      {
+        "nombre": "Apoyar un enfoque preventivo frente a los desafíos ambientales",
+        "descripcion": "Las empresas deben anticiparse a los riesgos y desafíos ambientales, promoviendo medidas preventivas para proteger el entorno."
+      },
+      {
+        "nombre": "Promover la mayor responsabilidad ambiental",
+        "descripcion": "Las empresas deben ser responsables con el impacto ambiental de sus operaciones, productos y servicios."
+      },
+      {
+        "nombre": "Fomentar el desarrollo y la difusión de tecnologías ambientales",
+        "descripcion": "Las empresas deben impulsar la innovación y el uso de tecnologías que ayuden a proteger y mejorar el medio ambiente."
+      },
+      {
+        "nombre": "Reducir el uso de recursos naturales de manera eficiente",
+        "descripcion": "Se debe optimizar el consumo de recursos y promover el uso sostenible de los mismos."
+      },
+      {
+        "nombre": "Prevenir la contaminación",
+        "descripcion": "Las empresas deben comprometerse a evitar la contaminación y trabajar en medidas para reducir las emisiones y desechos tóxicos."
+      },
+      {
+        "nombre": "Incentivar la economía circular",
+        "descripcion": "Fomentar la reutilización, el reciclaje y la reducción de residuos para contribuir a la sostenibilidad del planeta."
+      },
+      {
+        "nombre": "Contribuir a la conservación de la biodiversidad",
+        "descripcion": "Las empresas deben apoyar la conservación de los ecosistemas y la biodiversidad, evitando la destrucción de hábitats naturales."
+      },
+      {
+        "nombre": "Colaborar con la sociedad y las instituciones en el desarrollo de políticas medioambientales",
+        "descripcion": "Las empresas deben colaborar con gobiernos, ONGs y otras partes interesadas para promover políticas y prácticas que favorezcan la sostenibilidad ambiental."
+      },
+      {
+        "nombre": "Cumplir con la legislación ambiental nacional e internacional",
+        "descripcion": "Las empresas deben garantizar que sus operaciones estén alineadas con las leyes y regulaciones ambientales locales e internacionales."
+      },
+      {
+        "nombre": "Integrar la sostenibilidad ambiental en la estrategia empresarial",
+        "descripcion": "Las empresas deben incorporar la sostenibilidad ambiental de manera transversal en su estrategia, operando con un enfoque a largo plazo."
+      }
+    ]
+  }
+  

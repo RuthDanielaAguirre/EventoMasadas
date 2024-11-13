@@ -1,0 +1,89 @@
+<?xml version ="1.0" encoding= "UTF-8"?>
+
+<objetivos_sostenibilidad>
+    <objetivo>
+        <numero>1</numero>
+        <nombre>Fin de la pobreza</nombre>
+        <descripcion>Erradicar la pobreza en todas sus formas y en todo el mundo.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>2</numero>
+        <nombre>Hambre cero</nombre>
+        <descripcion>Acabar con el hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>3</numero>
+        <nombre>Salud y bienestar</nombre>
+        <descripcion>Garantizar una vida sana y promover el bienestar para todos en todas las edades.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>4</numero>
+        <nombre>Educación de calidad</nombre>
+        <descripcion>Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje para todos.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>5</numero>
+        <nombre>Igualdad de género</nombre>
+        <descripcion>Lograr la igualdad de género y empoderar a todas las mujeres y niñas.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>6</numero>
+        <nombre>Agua limpia y saneamiento</nombre>
+        <descripcion>Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>7</numero>
+        <nombre>Energía asequible y no contaminante</nombre>
+        <descripcion>Garantizar el acceso a una energía asequible, segura, sostenible y moderna.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>8</numero>
+        <nombre>Trabajo decente y crecimiento económico</nombre>
+        <descripcion>Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>9</numero>
+        <nombre>Industria, innovación e infraestructura</nombre>
+        <descripcion>Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>10</numero>
+        <nombre>Reducción de las desigualdades</nombre>
+        <descripcion>Reducir la desigualdad en y entre los países.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>11</numero>
+        <nombre>Ciudades y comunidades sostenibles</nombre>
+        <descripcion>Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>12</numero>
+        <nombre>Producción y consumo responsables</nombre>
+        <descripcion>Garantizar modalidades de consumo y producción sostenibles.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>13</numero>
+        <nombre>Acción por el clima</nombre>
+        <descripcion>Adoptar medidas urgentes para combatir el cambio climático y sus efectos.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>14</numero>
+        <nombre>Vida submarina</nombre>
+        <descripcion>Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>15</numero>
+        <nombre>Vida de ecosistemas terrestres</nombre>
+        <descripcion>Proteger, restaurar y promover el uso sostenible de los ecosistemas terrestres, gestionar los bosques de manera sostenible, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>16</numero>
+        <nombre>Paz, justicia e instituciones sólidas</nombre>
+        <descripcion>Promover sociedades pacíficas e inclusivas, facilitar el acceso a la justicia y crear instituciones eficaces, responsables e inclusivas a todos los niveles.</descripcion>
+    </objetivo>
+    <objetivo>
+        <numero>17</numero>
+        <nombre>Alianzas para lograr los objetivos</nombre>
+        <descripcion>Fortalecer los medios de implementación y revitalizar la alianza mundial para el desarrollo sostenible.</descripcion>
+    </objetivo>
+    </objetivos_sostenibilidad>
