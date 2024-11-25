@@ -21,12 +21,47 @@
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
-
+  margin-bottom: 25px;
   background-image: url("./heroJSONXML.png");
   background-size: cover;
   background-position: center top;
   background-attachment: fixed;
 }
+
+nav{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+background: transparent;
+  width: 100vw;
+  height: 80px;
+}
+
+nav ul{
+  display: flex;
+  flex-wrap: wrap;
+ margin-right: 3vh;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  flex-wrap: wrap;
+  justify-content:flex-end;
+  gap: 2rem;
+  align-items: center;
+  
+}
+
+
+nav ul  a{
+ height: 100%;
+  display: flex;
+  color: aliceblue;
+  text-decoration: none;
+  flex-wrap: wrap;
+  flex-direction: row;
+align-items: center;
+ 
+} 
 
 
 .hero {
@@ -36,7 +71,8 @@
   width: 40%;
   height: 100vh;
   background: linear-gradient(90deg, rgba(10, 10, 10, 0.155));
-  border: 2px white solid;
+ 
+ 
 }
 
 .hero-text {
@@ -55,7 +91,7 @@ p {
 }
 
 .hero-text a {
-  border: rgb(10, 255, 10) 3px solid;
+ 
   border-radius: 1rem;
   width: 18.75rem;
   height: 3rem;
@@ -88,6 +124,11 @@ p {
   background-clip: text;
   animation: fadeIn 2s ease-out forwards;
   animation-delay: 0.5s;
+  
+}
+
+.hero-text a {
+  border: var(--border-color) 2px solid;
 }
 
 h2 {
@@ -101,28 +142,13 @@ h3 {
   font-size: 2em;
 }
 
-.font-formulario {
-  display: flex;
-  font-size: 2em;
-  color: var(--text-color);
-  width: fit-content;
-  border: 3px red solid;
-}
 
-.form {
-  display: flex;
-
-  justify-content: center;
-  border: 3px greenyellow solid;
-}
 
 .intro {
-  margin: 10%;
-
+  margin: 2%;
   max-width: 170vh;
   text-align: center;
   background: aliceblue;
-  border: 2px pink solid;
   padding: 5vh;
 }
 
@@ -134,13 +160,13 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  width: 100%;
+  width: 96%;
   padding-top: 3vh;
   gap: 3rem;
   height: fit-content;
   margin: 3vh;
   background: aliceblue;
-  border: 2px red solid;
+ 
 }
 
 .lo h3 {
@@ -152,14 +178,13 @@ h3 {
   flex-wrap: wrap;
   margin-bottom: 100px;
   gap: 1rem;
-  width: 100%;
+  width: 96%;
   background: aliceblue;
   height: fit-content;
   align-content: center;
   justify-content: center;
-  border: 2px greenyellow solid;
   height: max-content;
-  border: fuchsia 5px solid;
+  list-style-type: none;
 }
 
 .lo ul li {
@@ -201,14 +226,13 @@ h3 {
 }
 
 .objetivos {
-  border: fuchsia 5px solid;
   margin: 3vh;
   background: aliceblue;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 96%;
 }
 
 .objetivos h3,
@@ -224,8 +248,7 @@ ul {
   align-items: center;
   justify-content: space-around;
   background: aliceblue;
-  border: blue 1px solid;
-  border: fuchsia 5px solid;
+
 }
 
 #lista-conceptos ul {
@@ -233,7 +256,6 @@ ul {
 }
 
 .concepto {
-  border: fuchsia 1px solid;
   width: 14rem;
   height: 20rem;
   position: relative;
@@ -288,22 +310,82 @@ ul {
 
 .inscripcion {
   display: flex;
-
+  flex-wrap: wrap;
+justify-content: center;
   flex-direction: column;
   margin: 0 auto;
   max-width: 100vh;
   padding: 1rem;
-
-  border: rgb(10, 255, 10) 3px solid;
+background: rgba(240, 248, 255, 0.336);
   border-radius: 1rem;
   box-shadow: 3px 3px 5px var(--accent-color);
-  text-align: center;
+  align-items: stretch;
+}
+
+.font-formulario {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 2em;
+  color: var(--text-dark-color);
+  width: fit-content;
+
+  padding:1rem;
+ 
+}
+
+.form {
+  display: flex;
+  align-items: baseline;
+  background: rgba(240, 248, 255, 0.336);
+
 }
 
 .formulario-inscripcion {
   display: flex;
   flex-direction: column;
   align-items: stretch;
+  justify-content: center;
+  background: rgba(240, 248, 255, 0.336);
+}
+  .inscripcion {
+  display: flex;
+  flex-wrap: wrap;
+justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 100vh;
+  padding: 1rem;
+background: rgba(240, 248, 255, 0.336);
+  border-radius: 1rem;
+  box-shadow: 3px 3px 5px var(--accent-color);
+  align-items: stretch;
+}
+
+.font-formulario {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 2em;
+  color: var(--text-dark-color);
+
+ 
+  
+}
+
+.form {
+  display: flex;
+  align-items: baseline;
+  background: rgba(240, 248, 255, 0.336);
+  margin: 0;
+}
+
+.formulario-inscripcion {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  background: rgba(240, 248, 255, 0.336);
 }
 
 input {
@@ -313,25 +395,87 @@ input {
   width: 100%;
   margin-bottom: 1rem;
   box-sizing: border-box;
+  background: rgba(240, 248, 255, 0.336);
+}
+
+label {
+
+  font-weight: bold;
+ 
+}
+
+
+input {
+  border: var(--border-color) 3px solid;
+  border-radius: 1rem;
+  height: 2rem;
+  width: 100%;
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+  background: rgba(240, 248, 255, 0.336);
 }
 
 label {
   margin-bottom: 2rem;
   font-weight: bold;
+  background: rgba(240, 248, 255, 0.336);
+}
+
+.form button {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100%; 
+  width: 50%;
 }
 
 button {
-  align-self: center;
   padding: 0.75rem 1.5rem;
   border-radius: 1rem;
   background-color: var(--primary-color);
   color: var(--text-dark-color);
   border: var(--border-color) 3px solid;
   cursor: pointer;
+  background: rgba(240, 248, 255, 0.336);
 }
+
 button:hover {
   background-color: var(--accent-color);
 }
+
+.feed{
+  padding: 24px;
+  background: aliceblue;
+  margin:2%;
+  border-radius: 16px;
+  text-decoration: none;
+}
+
+.feed p {
+  padding: 16px;
+  background: aliceblue;
+   text-decoration: none;
+}
+.feed ul  {
+  padding: 24px;
+  background: aliceblue;
+   text-decoration: none;
+   list-style-type: none;
+}
+.feed ul li  {
+margin-left:50%;
+  background: aliceblue;
+   text-decoration: none;
+  
+}
+.feed ul li a {
+ 
+  background: aliceblue;
+   text-decoration: none;
+ 
+}
+
+
 
 footer {
   margin: 1rem;

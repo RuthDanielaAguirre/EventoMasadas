@@ -9,6 +9,15 @@
 <body>
 
     <header>
+        <nav>
+            <ul>
+                <li><a href="#intro">About Us</a></li>
+                <li> <a href="#desarrollo">Desarrollo Sostenible</a></li>
+                <li><a href="#claves">About Us</a></li>
+                <li><a href="#inscripcion">Join Us</a></li>
+                
+            </ul>
+        </nav>
         
         <section class="hero">
             <div class="hero-text">
@@ -22,19 +31,24 @@
         </section>
     </header> 
 
+   
+
+
     
         
-    <section class="intro">
+    <section id="intro" class="intro">
         
         <h2>Información del Evento</h2>
         <p>Conoce más sobre el evento de startups sostenibles, incluyendo los 17 Objetivos de Desarrollo Sostenible y conceptos claves como economía circular.</p>
-       
-    
+    </section>
+    <section id="desarrollo">
         <div class="lo">
             <h3>Objetivos de Desarrollo Sostenible</h3>
             <ul id="lista-objetivos"></ul>
-           
         </div>
+    </section>
+
+    <section id="claves">
         <div class="objetivos">
             <h3>Objetivos Clave de Sostenible</h3>
             <ul id="lista-conceptos"></ul>
@@ -57,12 +71,35 @@
             <input type="text" name="empresa" id="empresa" required>
         </div>
         <div class="form">
-            <label for="sector" class="font-formulario">Sector de sostenibilidad</label>
+            <label for="sector" class="font-formulario">Sector</label>
             <input type="text" name="sector" id="sector"required>
         </div>
+        <div class="form">
             <button type="submit">Inscribirse</button>
+        </div>
         </form>
     </section>
+
+    <section class="feed">
+
+      
+        <p>Suscríbete a nuestras actualizaciones:</p>
+        <ul>
+         <li><a href="evento_plaza_masadas.xml">RSS Feed</a></li>
+         <li><a href="evento_plaza_masadas_atom.xml">Atom Feed</a></li>
+        </ul>
+  
+        <p>Al suscribirte a nuestros feeds RSS o Atom, podrás recibir
+            automáticamente todas las novedades del evento de startups
+            sostenibles en Plaza Masadas, como nuevas charlas, talleres y
+            noticias importantes.</p>
+       
+    </section>
+
+    <!-- <select id="miSelect">
+        <option value="">Selecciona una opción</option> 
+      </select>
+      <div id="contenido"></div> -->
 
     <footer>
         <p>Plaza Masadas, Barcelona - 2024</p>

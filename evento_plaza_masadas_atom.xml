@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Consultora Sostenible en Plaza Masadas</title>
+  <link href="https://www.eventoplazamasadas.com" />
+  <updated>2024-11-12T14:00:00Z</updated>
+  
+  <entry>
+    <title>Charla sobre IA Ecológica</title>
+    <link href="https://www.eventoplazamasadas.com/charla-ia-ecologica" />
+    <id>https://www.eventoplazamasadas.com/charla-ia-ecologica</id>
+    <updated>2024-11-12T14:00:00Z</updated>
+    <summary>Descubre cómo la inteligencia artificial puede ayudar a reducir el impacto ambiental.</summary>
+  </entry>
+  
+  <entry>
+    <title>Taller de Energía Renovable en TI</title>
+    <link href="https://www.eventoplazamasadas.com/taller-energia-renovable" />
+    <id>https://www.eventoplazamasadas.com/taller-energia-renovable</id>
+    <updated>2024-11-12T16:00:00Z</updated>
+    <summary>Explora el uso de energías renovables en la infraestructura tecnológica.</summary>
+  </entry>
+  
+  <entry>
+    <title>Panel: Desarrollo de Software Verde</title>
+    <link href="https://www.eventoplazamasadas.com/panel-software-verde" />
+    <id>https://www.eventoplazamasadas.com/panel-software-verde</id>
+    <updated>2024-11-13T10:00:00Z</updated>
+    <summary>Una mesa redonda sobre cómo reducir la huella de carbono del desarrollo de software.</summary>
+  </entry>
+  
+  <entry>
+    <title>Conferencia sobre Centros de Datos Eficientes</title>
+    <link href="https://www.eventoplazamasadas.com/conferencia-datos-eficientes" />
+    <id>https://www.eventoplazamasadas.com/conferencia-datos-eficientes</id>
+    <updated>2024-11-13T12:00:00Z</updated>
+    <summary>Conoce cómo implementar centros de datos sostenibles y eficientes.</summary>
+  </entry>
+  
+  <entry>
+    <title>Taller de Programación Responsable</title>
+    <link href="https://www.eventoplazamasadas.com/taller-programacion-responsable" />
+    <id>https://www.eventoplazamasadas.com/taller-programacion-responsable</id>
+    <updated>2024-11-13T14:00:00Z</updated>
+    <summary>Aprende prácticas responsables para un desarrollo más sostenible.</summary>
+  </entry>
+  
+  <entry>
+    <title>Charla: Blockchain y Sustentabilidad</title>
+    <link href="https://www.eventoplazamasadas.com/charla-blockchain" />
+    <id>https://www.eventoplazamasadas.com/charla-blockchain</id>
+    <updated>2024-11-14T10:00:00Z</updated>
+    <summary>Explora el potencial del blockchain para soluciones ecológicas.</summary>
+  </entry>
+  
+  <entry>
+    <title>Exhibición de Startups Verdes</title>
+    <link href="https://www.eventoplazamasadas.com/exhibicion-startups-verdes" />
+    <id>https://www.eventoplazamasadas.com/exhibicion-startups-verdes</id>
+    <updated>2024-11-14T12:00:00Z</updated>
+    <summary>Un espacio para conocer las innovaciones de startups en sostenibilidad y TI.</summary>
+  </entry>
+  
+  <entry>
+    <title>Panel: Sostenibilidad en Proyectos IT</title>
+    <link href="https://www.eventoplazamasadas.com/panel-proyectos-sostenibles" />
+    <id>https://www.eventoplazamasadas.com/panel-proyectos-sostenibles</id>
+    <updated>2024-11-14T14:00:00Z</updated>
+    <summary>Discusión sobre cómo integrar la sostenibilidad en cada etapa de un proyecto IT.</summary>
+  </entry>
+  
+  <entry>
+    <title>Taller de Migración a la Nube Verde</title>
+    <link href="https://www.eventoplazamasadas.com/taller-nube-verde" />
+    <id>https://www.eventoplazamasadas.com/taller-nube-verde</id>
+    <updated>2024-11-15T10:00:00Z</updated>
+    <summary>Aprende cómo migrar tus sistemas a plataformas en la nube sostenibles.</summary>
+  </entry>
+  
+  <entry>
+    <title>Clausura: Premios a la Innovación Sostenible</title>
+    <link href="https://www.eventoplazamasadas.com/premios-innovacion"/>
+    <id>https://www.eventoplazamasadas.com/premios-innovacion</id>
+    <updated>2024-11-15T16:00:00Z</updated>
+    <summary>Celebra con nosotros a los líderes en innovación y sostenibilidad tecnológica.</summary>
+  </entry>
+  
+</feed>
